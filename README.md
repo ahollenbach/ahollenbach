@@ -5,6 +5,6 @@ I'm Andrew.
 
 pronouns: he/him
 
-👨🏻‍💻 work: eng manager for backend platforms @ [NerdWallet](https://www.nerdwallet.com)
+👨🏻‍💻 work: eng @ [FORM Kitchens](https://www.formkitchens.com)
 
 🐦 twitter: [@cellphonetower](https://twitter.com/cellphonetower)
