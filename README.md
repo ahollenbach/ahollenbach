@@ -7,6 +7,6 @@ pronouns: he/him
 
 👨🏻‍💻 work: cooking up something new
 
-🐦 twitter: [@cellphonetower](https://twitter.com/cellphonetower)
+🐘 mastodon: [@cellphonetower](https://hachyderm.io/@cellphonetower)
 
 📟 site: [ahollenbach.com](https://ahollenbach.com/)
