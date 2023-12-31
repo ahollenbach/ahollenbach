@@ -5,7 +5,7 @@ I'm Andrew.
 
 pronouns: he/him
 
-👨🏻‍💻 work: cooking up something new
+👨🏻‍💻 work: [privy.io](https://www.privy.io)
 
 🐘 mastodon: [@cellphonetower](https://hachyderm.io/@cellphonetower)
 
